@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- Bootstrap CSS -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="css/main.css">
+    <script src="https://www.gstatic.com/firebasejs/5.9.0/firebase.js"></script>
+    <title>Rolling today</title>
+  </head>
+
+  <body>
+    <div class="totalcontent container-fluid">
+      <h1 id="title" class="col-sm-12">RollApp</h1><br><br>
+      <div class="row">
+        <div class="col-sm-4 yui3-skin-night ">
+          <div id="mycalendar" class="calendar"></div><br><!-- Container for the calendar -->
+          <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Add new event</button><br><br>
+          <div class="modal fade" id="myModal" role="dialog">
+            <div class="modal-dialog">
+              <div class="modal-content">
+                <div class="modal-header">
+                  <h4 class="modal-title">New event</h4>
+                  <button type="button" class="close" data-dismiss="modal">&times;</button>
+
+                </div>
+                <div class="modal-body">
+                  <input type="date" id="date" class="form-control" placeholder="DATE(yyyy-mm-dd)"><br>
+                  <!--<input type="text" id="stylee" class="form-control" placeholder="STYLE"><br>-->
+                  <select class=" form-control" id="stylee">
+                    <option value="all">ALL</option>
+                    <option value="slalom">SLALOM</option>
+                    <option value="agressive">AGRESSIVE</option>
+                    <option value="freeskate">FREESKATE</option>
+                    <option value="fast slalom">FAST SLALOM</option>
+                    <option value="fitness">FITNESS</option>
+                    <option value="downhill">DOWNHILL</option>
+                  </select><br>
+                  <input type="text" id="location" class="form-control" placeholder="LOCATION"><br>
+                  <input type="text" id="description" class="form-control" placeholder="DESCRIPTION"><br>
+                </div>
+                <div class="modal-footer">
+                  <button type="button" name="save" style="width:60px; height:38px;" onclick="newEvent()" data-dismiss="modal">SAVE</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-sm-8 " >
+          <div class="infotoday" id="infotoday">
+            <h3 id="selecteddatee">:</h3>
+            <div class="info" id='info'><!-- append events --></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="http://yui.yahooapis.com/3.18.1/build/yui/yui-min.js"></script>
+     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <script src="js/main.js"></script>
+  </body>
+
+</html>
