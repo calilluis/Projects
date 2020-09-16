@@ -1,25 +1,20 @@
 
 Toxicity in Twitch.
 ---------------------
+This project consists in a Twitch chat bot that analyzes the toxicity of the Twitch chat and is able to change the chat mode in order of it. We also included a briev study of the toxicity in different streams. We used Natural Lenguage Processing and Machine Learning in order to achieve the objective. We used Fasttext, as its a very powerful library of NLP + ML.
 
-En la carpeta Program hi ha tots els fitxers necessaris.
-Dins d'aquesta, hi ha la carpeta bot on es situen els fitxers que hem implementat nosaltres:
-- dic_filter.py: es el fitxer main de l'aplicació. Fem la classificació, la recollida en live de dades, 
-				 el càlcul de toxicitat i la moderació del chat.
+In the "Program" folder there are all the necessary files.
+Inside there, there is the "bot" folder where you can find all the implemented files:
 
-- livegraph.py: es el codi que ens genera el graf en temps real.
+- dic_filter.py: main file of the app. It classifies, grabs the  data in real time, calcs the toxicity and moderates the chat.
+- livegraph.py: is the code that will generate a real time graph.
+- graph_data.txt: is the file that is opened inside the livegrpah.py in order to generate the graph.
+- labeled_data.txt: contains all the messages found and classified.
+- reader.py: Code that we use to grab the twitch chat in real time. 
 
-- graph_data.txt: es el fitxer que s'obre dins de livegrpah.py per a generar el graf.
-
-- labeled_data.txt: conté tots els missatges recollits i classificats.
-
-- reader.py: Codi que utilitzem per recollir el chat de twitch en directe. Tot i ser utilitzat també en dic_filter.py, 
-			 ens va servir a l'hora de etiquetar missatges
-
-
-Com executar l'aplicació:
-- Es recomana utilitzar el sistema operatiu d'Ubuntu per tal de que tot funcioni correctament.
-- S'ha d'instalar fasttext en el terminal entrant dins la carpeta del projecte.
-- Executar en dos scripts diferents el livegraph.py i el dic_filter.py per tal de que el graf es vegi en tempos real.
-- Comandes: python3 dic_filter.py  
-			python livegraph.py
+How to execute:
+- Ubuntu is recomended in order for the program to work correctly.
+- You must install fasttext in the terminal inside of the project folder.
+- You must execute in two different windows the livegraph.py and the dic-filter.py in order for the graph to be seen in real time.
+- Commands: python3 dic_filter.py
+	    python livegraph.py
