@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Infoscreen"
+    android:background="#fcbfb8">
+
+
+    <!-- TODO: Update blank fragment layout -->
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginEnd="-4dp"
+        android:layout_marginRight="-4dp" />
+
+    <Button
+        android:id="@+id/buttonsor"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="164dp"
+        android:layout_marginLeft="164dp"
+        android:layout_marginEnd="159dp"
+        android:layout_marginRight="159dp"
+        android:layout_marginBottom="18dp"
+        android:background="@drawable/button_ro"
+        android:text="SORTIR"
+        android:textColor="#3a393b"/>
+
+    <Button
+        android:id="@+id/buttonenda"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="34dp"
+        android:layout_marginLeft="34dp"
+        android:layout_marginEnd="289dp"
+        android:layout_marginRight="289dp"
+        android:layout_marginBottom="17dp"
+        android:background="@drawable/button_ro"
+        android:text="ENDARRERE"
+        android:textColor="#3a393b"/>
+
+    <TextView
+        android:id="@+id/textWelc"
+        android:layout_width="wrap_content"
+        android:layout_height="216dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="22dp"
+        android:layout_marginLeft="22dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginEnd="19dp"
+        android:layout_marginRight="19dp"
+        android:layout_marginBottom="473dp"
+        android:background="@drawable/button_ro"
+        android:backgroundTint="#66FFFFFF"
+        android:gravity="center"
+        android:padding="20dp"
+        android:text="Segueix seguint les indicacions fins a arribar a casa d'una de les persones més conegudes al nostre poblat."
+        android:textColor="#000000"
+        android:textSize="20dp" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="283dp"
+        android:layout_height="335dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="71dp"
+        android:layout_marginLeft="71dp"
+        android:layout_marginEnd="57dp"
+        android:layout_marginRight="57dp"
+        android:layout_marginBottom="176dp"
+        android:visibility="visible"
+        app:srcCompat="@mipmap/cacant" />
+
+    <TextView
+        android:id="@+id/textWelc"
+        android:layout_width="269dp"
+        android:layout_height="81dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="74dp"
+        android:layout_marginLeft="74dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginEnd="68dp"
+        android:layout_marginRight="68dp"
+        android:layout_marginBottom="93dp"
+        android:background="@drawable/button_ro"
+        android:backgroundTint="#66000000"
+        android:gravity="center"
+        android:padding="10dp"
+        android:text="Versió DEMO acabada"
+        android:textSize="20dp" />
+
+</RelativeLayout>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".LogS"
+    android:background="#fcbfb8">
+
+
+    <!-- TODO: Update blank fragment layout -->
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginEnd="-4dp"
+        android:layout_marginRight="-4dp" />
+
+    <Button
+        android:id="@+id/buttonseg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="290dp"
+        android:layout_marginLeft="290dp"
+        android:layout_marginEnd="33dp"
+        android:layout_marginRight="33dp"
+        android:layout_marginBottom="18dp"
+        android:background="@drawable/button_ro"
+        android:text="SEGÜENT"
+        android:textColor="#3a393b"/>
+
+    <Button
+        android:id="@+id/buttonsor"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="164dp"
+        android:layout_marginLeft="164dp"
+        android:layout_marginEnd="159dp"
+        android:layout_marginRight="159dp"
+        android:layout_marginBottom="18dp"
+        android:background="@drawable/button_ro"
+        android:text="SORTIR"
+        android:textColor="#3a393b"/>
+
+    <Button
+        android:id="@+id/buttonenda"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="34dp"
+        android:layout_marginLeft="34dp"
+        android:layout_marginEnd="289dp"
+        android:layout_marginRight="289dp"
+        android:layout_marginBottom="17dp"
+        android:background="@drawable/button_ro"
+        android:text="ENDARRERE"
+        android:textColor="#3a393b"
+        />
+
+    <TextView
+        android:id="@+id/textWelc"
+        android:layout_width="wrap_content"
+        android:layout_height="287dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="12dp"
+        android:layout_marginLeft="12dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="396dp"
+        android:background="@drawable/button_ro"
+        android:backgroundTint="#66FFFFFF"
+        android:gravity="center"
+        android:padding="20dp"
+        android:text="Veig que ets una persona curiosa, aquest joc és per tu! Jo sóc l'Àlex Pons. Ens trobem a un poblat Talaiòtic, més concretament a la Torre d'en Galmés. Jo he viscut aquí durant anys i avui et vull portar amb mi perquè tu també el puguis conèixer. Segueix les indicacions per descobrir els secrets que amaga el meu poblat."
+        android:textColor="#000000"
+
+
+        android:textSize="20dp" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="302dp"
+        android:layout_height="420dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="57dp"
+        android:layout_marginLeft="57dp"
+        android:layout_marginEnd="52dp"
+        android:layout_marginRight="52dp"
+        android:layout_marginBottom="47dp"
+        android:visibility="visible"
+        app:srcCompat="@mipmap/p2" />
+
+</RelativeLayout>

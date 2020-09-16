@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.roomdb">
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/tg"
+        android:label="Torre d'en Galmés"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.NoActionBar"
+        android:usesCleartextTraffic="true">
+        <activity android:name=".FinalS"></activity>
+        <activity android:name=".PasS" />
+        <activity android:name=".EnhorabonaS" />
+        <activity android:name=".FonaS" />
+        <activity android:name=".InstrS" />
+        <activity android:name=".WelcomeS" />
+        <!--
+ <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+         </activity>
+        -->
+        <activity android:name=".LogS">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

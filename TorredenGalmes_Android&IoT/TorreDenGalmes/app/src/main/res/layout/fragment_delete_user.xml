@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/fragment_delete_user"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.roomdb.MainActivity">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="24dp"
+        android:layout_marginTop="24dp"
+        android:layout_marginRight="8dp"
+        android:text="Delete Product"
+        android:textAlignment="center"
+        android:textSize="40dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="24dp"
+        android:layout_marginTop="250dp"
+        android:layout_marginRight="8dp"
+        android:text="Delete Brand"
+        android:textAlignment="center"
+        android:textSize="40dp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/bn_delete_product"
+        android:layout_width="138dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="136dp"
+        android:layout_marginLeft="136dp"
+        android:layout_marginTop="153dp"
+        android:text="Delete Product" />
+
+    <Button
+        android:id="@+id/bn_delete_brand"
+        android:layout_width="138dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="136dp"
+        android:layout_marginLeft="136dp"
+        android:layout_marginTop="384dp"
+        android:text="Delete Brand" />
+
+    <EditText
+        android:id="@+id/txt_delete_product"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="98dp"
+        android:layout_marginLeft="98dp"
+        android:layout_marginTop="93dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Product Id"
+        tools:text="Product Id" />
+
+    <EditText
+        android:id="@+id/txt_delete_brand"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="100dp"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="328dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="Brand Id"
+        tools:text="Brand Id" />
+
+</RelativeLayout>
