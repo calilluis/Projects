@@ -1,7 +1,7 @@
 ﻿
-AUTHOR: Lluis Hernández Meliá, NIA 193200, U137536
+AUTHOR: Lluis Hernández Meliá
         email:lluis.hernandez01@estudiant.upf.edu
-	Group name: calilluis
+	
 
 ------------------------README------------------------------
 Description:
@@ -13,15 +13,14 @@ he can click a button that connects to the server and adds 1 to the counter of a
 --------------------------------------------------
 Bugs & problems:
 
-The application has some problems that should be resolved, like for example using for-if instead of the queries of firebase. This is because i tried to 
-use the realtime feature of firebase and in the end it wasn't the best option to do queries, but I didn't have time to solve it.
+The application has some problems that should be resolved, like for example using for-if instead of the queries of firebase. This is because i tried to use the realtime feature of firebase and in the end it wasn't the best option to do queries, but I didn't have time to solve it.
 --------------------------------------------------
 To Do:
 
 In the future it would be great to implement:
--A map for setting the location
--a list of top5 most popular events
--Finishing the filter of types of events
+-A map for setting the location.
+-a list of top 5 most popular events.
+-Finishing the filter of types of events.
 -Implementing the user-password method with firebase logging in with google (firebase supports it).
 -Not letting a user click the button of assistance more than once.
 -------------------------------------------------
@@ -33,10 +32,3 @@ main.html-->main html webpage.
 login.html, selector.html-->login webpage. It's the webpage to open if you want to see the implementation on a browser.
 main.js, login.js,servidor.js-->main javascripts code.
 --------------------------------------------------
-Comments:
-Thank you for all the support. I regret not being able to do the practice would have liked to do, and I think my
-final practice doesn't reflect my hours spent.
-This makes me a little angry, but this trimester was just crazy, i didn't manage organize myself correctly.
-On the other hand I think i have learnt a lot doing the practices alone even though it was a lot of work.
-
-Lluis
