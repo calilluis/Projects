@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/fondo3"
+    tools:context=".MenuSuper">
+
+
+    <Button
+        android:id="@+id/cerca"
+        android:layout_width="0dp"
+        android:layout_height="43dp"
+
+        android:background="#4a2343"
+
+        android:gravity="center_vertical"
+        android:text="  CERCA AQUÍ"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/button_mapag"
+        android:layout_width="340dp"
+        android:layout_height="45dp"
+        android:layout_marginTop="28dp"
+        android:background="@drawable/button_rodo"
+        android:backgroundTint="#ab8da5"
+        android:text="MAPA DEL SUPERMERCAT"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.492"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/cerca" />
+
+    <Button
+        android:id="@+id/button_ofertes"
+        android:layout_width="340dp"
+        android:layout_height="45dp"
+        android:layout_marginTop="108dp"
+        android:background="@drawable/button_rodo"
+        android:text="EXPLORA LES OFERTES"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.492"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/cerca" />
+
+    <ImageButton
+        android:id="@+id/imageButton_settings"
+        android:layout_width="60dp"
+        android:layout_height="55dp"
+        android:layout_marginEnd="4dp"
+        android:layout_marginBottom="4dp"
+        android:background="#00000000"
+        android:src="@drawable/conf2"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <TextView
+        android:id="@+id/text_categories"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="36dp"
+        android:gravity="center_horizontal"
+        android:text="CATEGORIES"
+        android:textColor="#4a2343"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/button_ofertes" />
+
+    <LinearLayout
+        android:id="@+id/layout_buttons2"
+        android:layout_width="150dp"
+        android:layout_height="297dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="28dp"
+        android:clickable="true"
+        android:orientation="vertical"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/text_categories"
+        tools:ignore="MissingConstraints"></LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/layout_buttons"
+        android:layout_width="150dp"
+        android:layout_height="297dp"
+        android:layout_marginStart="28dp"
+        android:layout_marginTop="8dp"
+        android:clickable="true"
+        android:orientation="vertical"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/text_categories"
+        tools:ignore="MissingConstraints"></LinearLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
