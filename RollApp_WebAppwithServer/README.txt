@@ -9,7 +9,7 @@ Description:
 The objective of the application is to solve a big problem on skaters world, the communication.
 The application tries to solve this issue implementing an event system that consists on calls to a server that connects to firebase. 
 On changing the selected date of the calendar, then it shows the events related to that date. If the user connected wants to participate on that event,
-he can click a button that connects to the server and adds 1 to the counter of assistants to the event.
+he can click a button that connects to the server and adds 1 to the counter of assistants to the event. The server now is not working, but it's a good example of a web App fully programmed by me (frontend+backend with firebase).
 --------------------------------------------------
 Bugs & problems:
 
