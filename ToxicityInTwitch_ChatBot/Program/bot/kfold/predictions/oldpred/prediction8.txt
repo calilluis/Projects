@@ -1,0 +1,47 @@
+(('__label__notoxic',), array([0.9949562])) __label__toxic fk offv fk off fk off
+(('__label__notoxic',), array([0.97260189])) __label__toxic 5Head smart
+(('__label__notoxic',), array([0.95618016])) __label__toxic why do u get sub human supports
+(('__label__toxic',), array([0.79039365])) __label__toxic fuckin dog
+(('__label__notoxic',), array([0.74774915])) __label__toxic Hey Tyler, it's past 15min no ff vote, u feel ok?
+(('__label__notoxic',), array([0.9948808])) __label__toxic play better
+(('__label__notoxic',), array([0.94847804])) __label__toxic @loltyler1 yo T ur inting the wrong ppl get back to challenger then do this shit to froggen and ablazeolive and all the academy players
+(('__label__notoxic',), array([0.6373322])) __label__toxic chat going so fast nobody will know that i jerk off in my sister's underwear Kreygasm
+(('__label__notoxic',), array([0.5815798])) __label__toxic its because ADC is a fucking trash role now LULW
+(('__label__notoxic',), array([0.96414644])) __label__toxic TYLERIS GETTING PERMA BANNED AGAIN
+(('__label__toxic',), array([0.99998367])) __label__toxic DEAD STREAMER KEKW
+(('__label__notoxic',), array([0.8044163])) __label__toxic @loltyler1 MOD @TYLER1__PLAY____VARIETY OR UR GAY
+(('__label__toxic',), array([0.57303137])) __label__toxic THAT MORG IS STU PID HE NEEDS TO GO TO THE DOCTOR TO SEE IF HE HAS LOST MORE THAN NORMAL BRAIN CELLS :)
+(('__label__notoxic',), array([0.97141606])) __label__toxic nooob tyler
+(('__label__toxic',), array([0.99981564])) __label__toxic u dumb
+(('__label__toxic',), array([0.85689181])) __label__toxic U SUCK
+(('__label__toxic',), array([1.00000823])) __label__toxic USELESS KEKW
+(('__label__toxic',), array([0.98744655])) __label__toxic how are u this bad with irelia
+(('__label__notoxic',), array([0.88007069])) __label__toxic /3 men have a small penis and theirs 17 thousand people in chat monkaW Clap ratirlHmm @loltyler1
+(('__label__notoxic',), array([0.72191435])) __label__toxic please change this shit
+(('__label__notoxic',), array([0.99987423])) __label__notoxic HAHAHAHA
+(('__label__notoxic',), array([0.71931607])) __label__notoxic DoritosChip SPAM DoritosChip THIS DoritosChip CHIP DoritosChip TO DoritosChip HELP DoritosChip NIPDoritosChip
+(('__label__notoxic',), array([0.98931956])) __label__notoxic dakiFire dakiFire dakiFire
+(('__label__notoxic',), array([0.98354763])) __label__notoxic 4Head 4Head 4Head
+(('__label__notoxic',), array([0.87478095])) __label__notoxic that was the worst play of the tournament
+(('__label__notoxic',), array([0.99537128])) __label__notoxic nice shot maaan
+(('__label__notoxic',), array([0.99986541])) __label__notoxic Hahahaha
+(('__label__notoxic',), array([0.99987531])) __label__notoxic KKKKKKKKKKKKKKKK
+(('__label__notoxic',), array([0.99896669])) __label__notoxic FAZE CS LUL LUL
+(('__label__notoxic',), array([0.99981779])) __label__notoxic LUL TK LUL
+(('__label__notoxic',), array([0.99995351])) __label__notoxic TRAITOR
+(('__label__notoxic',), array([0.97404337])) __label__notoxic BROKY KICKED CHECK HLTV
+(('__label__notoxic',), array([0.98791707])) __label__notoxic COLD TILTED LMAO
+(('__label__notoxic',), array([0.99146599])) __label__notoxic No chance
+(('__label__notoxic',), array([0.99976701])) __label__notoxic Superteam LUL
+(('__label__notoxic',), array([0.7965284])) __label__notoxic please dont cuss or swear my mother I'd watching chat
+(('__label__notoxic',), array([0.99988413])) __label__notoxic MADzera
+(('__label__notoxic',), array([0.99975163])) __label__notoxic TOXIC CONFIRMED
+(('__label__notoxic',), array([0.91154337])) __label__notoxic dont try bait me !!!!!!!!!
+(('__label__notoxic',), array([0.99873859])) __label__notoxic cold triggered LUL
+(('__label__notoxic',), array([0.96105015])) __label__notoxic Faze won game 1
+(('__label__notoxic',), array([0.99028367])) __label__notoxic LETS GO FAZE
+(('__label__notoxic',), array([0.50683278])) __label__notoxic Nip players great! They just gotta improve: Game sense, aim, winning, anti-choking, communication, running, walking, shooting, clutching, post plant positions, off angles, utility usage, executes, team play, run boosting, crosshair placement, baiting, outplaying, planting, defusing, buying, counter stratting, gameplay, vetoing, prefirering, stop team killing, smoke spots, shooting impacts, timings
+(('__label__toxic',), array([0.82860982])) __label__notoxic V I E T N A M
+(('__label__notoxic',), array([0.9970116])) __label__notoxic Why chat dead
+(('__label__notoxic',), array([0.98640478])) __label__notoxic WAT PogChamp
+(('__label__notoxic',), array([0.94248426])) __label__notoxic CHOKERS IN PAJAMAS

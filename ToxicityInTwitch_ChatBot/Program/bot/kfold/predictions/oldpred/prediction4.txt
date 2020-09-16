@@ -1,0 +1,47 @@
+(('__label__notoxic',), array([0.99993765])) __label__toxic DEAD CROWD LUL
+(('__label__notoxic',), array([0.93504357])) __label__toxic haHAA Budget casters haHAA
+(('__label__toxic',), array([0.99015522])) __label__toxic are u gayyyyy
+(('__label__notoxic',), array([0.92158413])) __label__toxic DEAD CROWD LUL PLEASE COME BACK TO PORTUGAL <3
+(('__label__notoxic',), array([0.99168891])) __label__toxic broky trolling kick pls
+(('__label__notoxic',), array([0.79136086])) __label__toxic if someone say kekw I leave
+(('__label__notoxic',), array([0.97760707])) __label__toxic the bomb dropped idiot chat
+(('__label__notoxic',), array([0.99880129])) __label__toxic woodchat
+(('__label__notoxic',), array([0.8204875])) __label__toxic Brollan is fnatic not NIP you idiot
+(('__label__notoxic',), array([0.7165091])) __label__toxic 4Weird wtf forrest
+(('__label__toxic',), array([0.53694791])) __label__toxic bunch of fuckin little kids in here acting like fools. feelsbadman
+(('__label__toxic',), array([0.99976951])) __label__toxic you bonobo
+(('__label__toxic',), array([0.9920857])) __label__toxic who the FUCK is denice
+(('__label__notoxic',), array([0.99890167])) __label__toxic KEKW
+(('__label__toxic',), array([0.99262369])) __label__toxic froggen is a idiot
+(('__label__notoxic',), array([0.72076213])) __label__toxic Bro, all these ads playing as soon as I click on a streamer.. cancer.
+(('__label__toxic',), array([0.50204957])) __label__toxic why is c m on bruh banned wtf
+(('__label__notoxic',), array([0.98941058])) __label__toxic whoever said no is mentally challenged lol
+(('__label__notoxic',), array([0.98853379])) __label__toxic AYAYA bonobos
+(('__label__notoxic',), array([0.99636739])) __label__toxic its no. dont listen to these idiots.
+(('__label__notoxic',), array([0.99941695])) __label__notoxic @kyrayc_tres hashLwd
+(('__label__notoxic',), array([0.99923801])) __label__notoxic dodge
+(('__label__notoxic',), array([0.99880826])) __label__notoxic POPPY
+(('__label__notoxic',), array([0.9987241])) __label__notoxic bro
+(('__label__toxic',), array([0.51742166])) __label__notoxic jesus man
+(('__label__notoxic',), array([0.96802235])) __label__notoxic the rezzy special
+(('__label__notoxic',), array([0.96796596])) __label__notoxic take ravenous hunter
+(('__label__toxic',), array([0.75230283])) __label__notoxic anivia will feed his ass off
+(('__label__toxic',), array([0.77481282])) __label__notoxic i mena ultimate
+(('__label__notoxic',), array([0.93710834])) __label__notoxic ultimate hunter eye ball
+(('__label__notoxic',), array([0.9998529])) __label__notoxic @tarzaned Hex-flash
+(('__label__toxic',), array([0.85185307])) __label__notoxic thats fine
+(('__label__notoxic',), array([0.88050097])) __label__notoxic cdr i think is best
+(('__label__notoxic',), array([0.98855931])) __label__notoxic 1st row
+(('__label__notoxic',), array([0.94457364])) __label__notoxic is that rezzy on shen Pog
+(('__label__notoxic',), array([0.97985929])) __label__notoxic @youngrezzy rezzzyyy the god <3
+(('__label__notoxic',), array([0.97186059])) __label__notoxic You got meteos in the jungle
+(('__label__notoxic',), array([0.99881554])) __label__notoxic memeos
+(('__label__notoxic',), array([0.7410934])) __label__notoxic Does he have support as secondary?
+(('__label__notoxic',), array([0.96838129])) __label__notoxic in olaf we trust
+(('__label__notoxic',), array([0.99375504])) __label__notoxic lets gooooo baby
+(('__label__toxic',), array([0.89436537])) __label__notoxic big shen game
+(('__label__notoxic',), array([0.65245539])) __label__notoxic wern't u autofilled last game?
+(('__label__notoxic',), array([0.9988209])) __label__notoxic ratirlFlower
+(('__label__notoxic',), array([0.99877167])) __label__notoxic L9999999
+(('__label__notoxic',), array([0.99189121])) __label__notoxic season 9
+(('__label__notoxic',), array([0.99874502])) __label__notoxic OOOOOOHHHH

@@ -1,0 +1,47 @@
+(('__label__toxic',), array([0.98968691])) __label__toxic B U T T C H E E K S
+(('__label__toxic',), array([0.99921793])) __label__toxic hi tyler ur gay
+(('__label__toxic',), array([0.99016982])) __label__toxic i hope you are not that expensive
+(('__label__toxic',), array([0.80879891])) __label__toxic How big are your melons?
+(('__label__notoxic',), array([0.99899107])) __label__toxic can you touch your elbows togethers?
+(('__label__toxic',), array([0.98913294])) __label__toxic FUKKKING HOT
+(('__label__toxic',), array([0.99068201])) __label__toxic you can stupid @Pink_Sparkles
+(('__label__toxic',), array([0.99887621])) __label__toxic this is so dumb
+(('__label__toxic',), array([0.99574888])) __label__toxic I like bobs
+(('__label__toxic',), array([0.93654984])) __label__toxic I hope you die
+(('__label__notoxic',), array([0.99994993])) __label__toxic fuck
+(('__label__toxic',), array([0.88186789])) __label__toxic show bob
+(('__label__notoxic',), array([0.99994755])) __label__toxic stoopid
+(('__label__toxic',), array([0.94494504])) __label__toxic can u just suck it
+(('__label__toxic',), array([0.99548197])) __label__toxic You're a furry POG
+(('__label__notoxic',), array([0.99994719])) __label__toxic N*GG
+(('__label__toxic',), array([0.99518472])) __label__toxic shroudW fuck ya
+(('__label__notoxic',), array([0.87779385])) __label__toxic trash game
+(('__label__toxic',), array([0.85021323])) __label__toxic U SUCK
+(('__label__toxic',), array([0.99364567])) __label__toxic i have aids
+(('__label__notoxic',), array([1.00000882])) __label__notoxic https
+(('__label__notoxic',), array([0.99994934])) __label__notoxic !na
+(('__label__notoxic',), array([0.82060212])) __label__notoxic To join NA clubs, you have to join our Discord and connect your twitch account.
+(('__label__notoxic',), array([0.98557377])) __label__notoxic is it possible to yi soloq to challenger? KappaRoss
+(('__label__notoxic',), array([0.9196564])) __label__notoxic i believe that the post was referring to people who troll games to get into
+(('__label__notoxic',), array([0.99930143])) __label__notoxic gordon vids? Pog
+(('__label__toxic',), array([0.81858838])) __label__notoxic is that so?xD
+(('__label__notoxic',), array([0.99296784])) __label__notoxic @Kyrayc_TrES be nice
+(('__label__notoxic',), array([0.70898467])) __label__notoxic @tarzaned but you said rengar is bad vs human beings and ure good player so enemy
+(('__label__notoxic',), array([0.99200964])) __label__notoxic @amouranth_subscriber ?? wdym XD
+(('__label__notoxic',), array([0.96687627])) __label__notoxic @tarzaned what you think about PTA botrk graves with blue smite?
+(('__label__notoxic',), array([0.99232709])) __label__notoxic @Kyrayc_TrES BE.. NICE!
+(('__label__notoxic',), array([0.999946])) __label__notoxic D
+(('__label__notoxic',), array([0.9057951])) __label__notoxic @aquaphorus it wasn’t. They said smurfing and compared it to trolling
+(('__label__notoxic',), array([0.98578906])) __label__notoxic lets go
+(('__label__notoxic',), array([0.57376975])) __label__notoxic Behave in chat please or ill tell amourath
+(('__label__notoxic',), array([0.57461035])) __label__notoxic I get gold players in my norms
+(('__label__notoxic',), array([0.99989283])) __label__notoxic !delay
+(('__label__notoxic',), array([0.99907857])) __label__notoxic 45 sec
+(('__label__notoxic',), array([0.99845248])) __label__notoxic BAN ME
+(('__label__notoxic',), array([0.97674292])) __label__notoxic @tarzaned custom games? 
+(('__label__notoxic',), array([0.83534968])) __label__notoxic Follow my social media to know when I go live! Snapchat
+(('__label__notoxic',), array([0.95844102])) __label__notoxic lul
+(('__label__notoxic',), array([0.99881232])) __label__notoxic grinding rank 1 with support til high elo LULW
+(('__label__notoxic',), array([0.99929953])) __label__notoxic fiddle BrokeBack
+(('__label__notoxic',), array([0.92286015])) __label__notoxic @tarzaned How do you feel about thresh as s support?
+(('__label__notoxic',), array([0.99991941])) __label__notoxic !opgg

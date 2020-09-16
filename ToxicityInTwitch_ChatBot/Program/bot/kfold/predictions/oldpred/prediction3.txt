@@ -1,0 +1,47 @@
+(('__label__toxic',), array([0.64871722])) __label__toxic fuckin dog
+(('__label__toxic',), array([0.99856681])) __label__toxic u dumb
+(('__label__toxic',), array([0.99017274])) __label__toxic how are u this bad with irelia
+(('__label__toxic',), array([0.98192436])) __label__toxic na terrorists ez clap
+(('__label__toxic',), array([0.97347039])) __label__toxic There's cake in my tummy, come dance there!
+(('__label__toxic',), array([0.64871722])) __label__toxic fuckin dog
+(('__label__toxic',), array([0.99855018])) __label__toxic I can tell you’re a chubby little nerd
+(('__label__toxic',), array([0.9901849])) __label__toxic want to see her pinky
+(('__label__toxic',), array([0.96410304])) __label__toxic All the virgins can´t wait to start donating
+(('__label__toxic',), array([0.94764102])) __label__toxic his friend is ugly af
+(('__label__notoxic',), array([0.99653655])) __label__toxic side biatch
+(('__label__toxic',), array([0.99705857])) __label__toxic shroudW fuck ya
+(('__label__notoxic',), array([0.87095541])) __label__toxic @420agressive69 SHUT UR MOUTH YOU FUCKING SPASTIC NIG NOG
+(('__label__notoxic',), array([0.960325])) __label__toxic @RNC_your_arse Why so quiet bro? too busy malding?
+(('__label__notoxic',), array([0.99982244])) chinese owns riot tho
+(('__label__notoxic',), array([0.50265211])) __label__toxic @RNC_your_arse realized how dumb you are? don't wanna embarass yourself more?
+(('__label__notoxic',), array([0.98304313])) __label__toxic is Doinb the worst mid at Worlds?
+(('__label__notoxic',), array([0.9727518])) __label__toxic Nah, IG = Idiots Gaming
+(('__label__notoxic',), array([0.80171776])) __label__toxic shut up and cast the game
+(('__label__notoxic',), array([0.99090785])) __label__toxic Worst crowd ever
+(('__label__notoxic',), array([1.00000679])) __label__notoxic https
+(('__label__notoxic',), array([1.00001001])) __label__notoxic !opgg
+(('__label__notoxic',), array([0.64648145])) __label__notoxic @amouranth_subscriber what are you going to do if I won’t?
+(('__label__toxic',), array([0.71324509])) __label__notoxic u said g2 is not gonna win and now they are in finals lmao
+(('__label__notoxic',), array([0.99031287])) __label__notoxic gragas wrecks fiddle
+(('__label__notoxic',), array([1.00000656])) __label__notoxic !delay
+(('__label__notoxic',), array([0.99960762])) __label__notoxic 45 sec
+(('__label__notoxic',), array([0.70443672])) __label__notoxic @tarzaned why are u playing support
+(('__label__notoxic',), array([0.9856773])) __label__notoxic No aftershock Fiddle?
+(('__label__toxic',), array([0.56478196])) __label__notoxic Chat did he que up for Support???
+(('__label__notoxic',), array([0.9998123])) __label__notoxic Autofill
+(('__label__notoxic',), array([0.99996555])) __label__notoxic lee support
+(('__label__notoxic',), array([0.96446526])) __label__notoxic the fucking struggle
+(('__label__notoxic',), array([0.9650833])) __label__notoxic @kyrayc_tres we'll tell on u
+(('__label__notoxic',), array([0.83314478])) __label__notoxic why do you keep playing suppoet
+(('__label__notoxic',), array([0.99981695])) __label__notoxic !keyboard
+(('__label__notoxic',), array([0.9968031])) __label__notoxic corsair k70
+(('__label__notoxic',), array([0.99983066])) __label__notoxic support*
+(('__label__notoxic',), array([1.00000751])) __label__notoxic lol
+(('__label__notoxic',), array([1.00000775])) __label__notoxic XD
+(('__label__notoxic',), array([0.98630655])) __label__notoxic NA HIGH ELO GAMES
+(('__label__notoxic',), array([1.0000006])) __label__notoxic LUL
+(('__label__notoxic',), array([0.99675608])) __label__notoxic PLAY NAUT
+(('__label__notoxic',), array([0.91151297])) __label__notoxic @kekwxd it’s treason then.
+(('__label__notoxic',), array([0.98586124])) __label__notoxic PLAY NAUT KING
+(('__label__notoxic',), array([0.86819804])) __label__notoxic just dodge dude
+(('__label__notoxic',), array([0.99940777])) __label__notoxic SHEN
